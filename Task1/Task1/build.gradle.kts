@@ -34,27 +34,31 @@ dependencies {
     testImplementation("org.junit.jupiter:junit-jupiter-api:5.9.0")
     testRuntimeOnly("org.junit.jupiter:junit-jupiter-engine:5.9.0")
     implementation(kotlin("stdlib-jdk8"))
+    implementation("com.github.haifengl:smile-core:3.0.1")
+    implementation("com.github.haifengl:smile-kotlin:3.0.1")
+    implementation("com.github.haifengl:smile-mkl:3.0.1")
+    implementation("org.apache.commons:commons-csv:1.10.0")
 }
 
 tasks {
     compileKotlin {
-        kotlinOptions.jvmTarget = "1.8"
+        kotlinOptions.jvmTarget = "17"
     }
 
     compileTestKotlin {
-        kotlinOptions.jvmTarget = "1.8"
+        kotlinOptions.jvmTarget = "17"
     }
 
     compileJava {
         options.encoding = "UTF-8"
-        sourceCompatibility = "1.8"
-        targetCompatibility = "1.8"
+        sourceCompatibility = "17"
+        targetCompatibility = "17"
     }
 
     compileTestJava {
         options.encoding = "UTF-8"
-        sourceCompatibility = "1.8"
-        targetCompatibility = "1.8"
+        sourceCompatibility = "17"
+        targetCompatibility = "17"
     }
 
     test {
@@ -64,7 +68,7 @@ tasks {
 
     withType<Detekt>().configureEach {
         // Target version of the generated JVM bytecode. It is used for type resolution.
-        jvmTarget = "1.8"
+        jvmTarget = "17"
         reports {
             // observe findings in your browser with structure and code snippets
             html.required.set(true)
@@ -135,5 +139,5 @@ spotless {
 }
 
 application {
-    mainClass.set("jp.live.ugai.tugraph.Test6Kt")
+    mainClass.set("MainKt")
 }
