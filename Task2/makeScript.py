@@ -3,6 +3,7 @@ import re
 import txt
 #--------------------------------------#
 #happy_gen = HappyGeneration("GPT2", "gpt2-medium")
+#happy_gen = HappyGeneration("GPT2", "gpt2-xl") # for best performance
 happy_gen = HappyGeneration("GPT2", "gpt2")
 args = GENSettings(max_length=30, temperature=0.7)
 result = happy_gen.generate_text("Mr. Avator walks to", args=args)    
