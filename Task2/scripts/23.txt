@@ -1,0 +1,4 @@
+ "I'm going to have a good time
+walks to the kitchen
+
+[walk] <kitchen>

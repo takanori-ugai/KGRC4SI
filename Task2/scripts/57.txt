@@ -1,0 +1,7 @@
+ "I'm going to go to the kitchen and I'm going to go to the kitchen and I'm going to go to the kitchen and I'm
+walks to the kitchen and sits down to a plate of food
+
+[walk] <kitchen>
+[walk] <plate>
+[find] <plate>
+[sit] <plate>

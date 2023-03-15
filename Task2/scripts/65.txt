@@ -1,0 +1,7 @@
+ "I'm going to the bathroom
+walks to the kitchen and sits down to the kitchen
+
+[walk] <kitchen>
+[walk] <kitchen>
+[find] <kitchen>
+[sit] <kitchen>

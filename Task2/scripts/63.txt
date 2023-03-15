@@ -1,0 +1,5 @@
+ The door is open
+walks to the front door of the house and walks to the front door
+
+[walk] <door>
+[walk] <door>

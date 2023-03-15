@@ -1,0 +1,6 @@
+ "I'm sorry
+walks to the front of the room and looks at the ceiling
+
+[walk] <ceiling>
+[find] <ceiling>
+[lookat] <ceiling>

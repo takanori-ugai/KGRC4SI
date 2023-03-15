@@ -1,0 +1,4 @@
+ "I'm going to get some coffee
+walks to the kitchen and says
+
+[walk] <kitchen>

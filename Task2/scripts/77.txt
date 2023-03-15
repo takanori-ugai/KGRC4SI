@@ -1,0 +1,4 @@
+D
+walks to the kitchen and the kitchen
+
+[walk] <kitchen>

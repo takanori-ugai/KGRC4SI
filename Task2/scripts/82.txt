@@ -1,0 +1,4 @@
+ He is in the house
+walks to the door of the house
+
+[walk] <door>

@@ -1,0 +1,4 @@
+ He's in the front of the room
+walks to the front door and opens it
+
+[walk] <door>

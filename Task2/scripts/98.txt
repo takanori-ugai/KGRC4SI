@@ -1,0 +1,7 @@
+ The door is open and Mr
+walks to the door and opens it is a door to the room
+
+[walk] <door>
+[walk] <door>
+[find] <door>
+[open] <door>

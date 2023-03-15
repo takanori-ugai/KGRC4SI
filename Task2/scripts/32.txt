@@ -1,0 +1,6 @@
+D: I'm not sure what to do
+walks to the front of the car and looks at the driver's side window
+
+[walk] <window>
+[find] <window>
+[lookat] <window>

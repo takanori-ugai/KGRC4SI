@@ -1,0 +1,4 @@
+ He is a man
+walks to the door of the room and opens it
+
+[walk] <door>

@@ -1,0 +1,4 @@
+ He is very happy and starts to cook again
+walks to the kitchen and begins to cook
+
+[walk] <kitchen>

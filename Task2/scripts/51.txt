@@ -1,0 +1,7 @@
+ : : : : : : : : : : : : : : : : : : : : : : : : : : : : : :
+walks to the front door of the house and looks at the door
+
+[walk] <door>
+[walk] <door>
+[find] <door>
+[lookat] <door>

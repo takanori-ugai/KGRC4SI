@@ -1,0 +1,7 @@
+ The house is in the house of the house of the house of the house of the house of the house of the house of the house of the house
+walks to the door of the house and opens the door
+
+[walk] <door>
+[walk] <door>
+[find] <door>
+[open] <door>

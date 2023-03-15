@@ -1,0 +1,4 @@
+ "I'm not sure what I'm doing here
+walks to the kitchen and finds a cup of tea
+
+[walk] <kitchen>

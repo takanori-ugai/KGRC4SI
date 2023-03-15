@@ -1,0 +1,6 @@
+ "I'm going to have to go to the bathroom
+walks to the front of the room and looks at the floor
+
+[walk] <floor>
+[find] <floor>
+[lookat] <floor>
