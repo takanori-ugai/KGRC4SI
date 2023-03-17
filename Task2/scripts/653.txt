@@ -1,0 +1,4 @@
+D
+walks to the kitchen and finds a cupboard
+
+[walk] <kitchen>

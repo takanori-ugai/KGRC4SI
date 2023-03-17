@@ -1,0 +1,6 @@
+ He looks at the window and looks at the window and looks at the window and looks at the window and looks at the window and looks at the window
+walks to the front of the building and looks at the window
+
+[walk] <window>
+[find] <window>
+[lookat] <window>

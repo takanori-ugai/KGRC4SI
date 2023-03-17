@@ -1,0 +1,4 @@
+ "I'm going to go to the bathroom and I'm going to get a glass of wine and I'm going to get a glass of wine and
+walks to the kitchen and says he has a glass of wine and is sitting in the kitchen
+
+[walk] <kitchen>

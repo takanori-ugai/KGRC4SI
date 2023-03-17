@@ -1,0 +1,4 @@
+D
+walks to the door and opens it is a very big room
+
+[walk] <door>

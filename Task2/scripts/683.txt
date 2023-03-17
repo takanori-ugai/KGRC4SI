@@ -1,0 +1,4 @@
+D
+walks to the kitchen and sits down to the food
+
+[walk] <kitchen>

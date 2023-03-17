@@ -1,0 +1,6 @@
+ The building is in the middle of the morning
+walks to the front of the building and looks at the floor
+
+[walk] <floor>
+[find] <floor>
+[lookat] <floor>

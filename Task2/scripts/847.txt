@@ -1,0 +1,4 @@
+ "I'm going to the bathroom and I'm going to the bathroom and I'm going to the bathroom and I'm going to the bathroom and I
+walks to the kitchen and puts a cup of tea in the cupboard
+
+[walk] <kitchen>

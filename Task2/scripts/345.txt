@@ -1,0 +1,4 @@
+ The next morning he takes a cup of coffee and done
+walks to the kitchen and takes a cup of coffee
+
+[walk] <kitchen>

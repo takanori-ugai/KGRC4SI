@@ -1,0 +1,4 @@
+ : : : : : : : : : : : : : : : : : : : : : : : : : : : : : :
+walks to the kitchen and says
+
+[walk] <kitchen>

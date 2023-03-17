@@ -1,0 +1,7 @@
+ The door of the house Mr
+walks to the front of the front door of the house and opens the door
+
+[walk] <door>
+[walk] <door>
+[find] <door>
+[open] <door>

@@ -1,0 +1,4 @@
+D
+walks to the kitchen and begins to make a cup of coffee
+
+[walk] <kitchen>

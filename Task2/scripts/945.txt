@@ -1,0 +1,4 @@
+ "I'm going to have to go to the bathroom and get some water
+walks to the kitchen and takes a bite out of the glass
+
+[walk] <kitchen>

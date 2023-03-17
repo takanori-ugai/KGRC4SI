@@ -1,0 +1,7 @@
+ "I'm not going to be a chef
+walks to the kitchen and sits down to the kitchen
+
+[walk] <kitchen>
+[walk] <kitchen>
+[find] <kitchen>
+[sit] <kitchen>

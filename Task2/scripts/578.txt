@@ -1,0 +1,6 @@
+D
+walks to the room and opens the door
+
+[walk] <door>
+[find] <door>
+[open] <door>

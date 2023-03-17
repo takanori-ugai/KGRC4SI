@@ -1,0 +1,7 @@
+ "I'm not going to be here
+walks to the front door of the house and opens the door
+
+[walk] <door>
+[walk] <door>
+[find] <door>
+[open] <door>

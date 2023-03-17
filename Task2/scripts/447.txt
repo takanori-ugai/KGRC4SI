@@ -1,0 +1,4 @@
+ "I'm going to go to the kitchen and take a cup of coffee and do a cup of coffee
+walks to the kitchen and takes a cup of coffee
+
+[walk] <kitchen>

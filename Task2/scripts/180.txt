@@ -1,0 +1,6 @@
+ "I'm going to the front of the car and I'm going to the front of the car and I'm going to the front of the car
+walks to the front of the car and looks at the door
+
+[walk] <door>
+[find] <door>
+[lookat] <door>

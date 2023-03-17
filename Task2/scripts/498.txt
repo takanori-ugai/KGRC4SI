@@ -1,0 +1,4 @@
+O
+walks to the front door and opens it and walks in
+
+[walk] <door>

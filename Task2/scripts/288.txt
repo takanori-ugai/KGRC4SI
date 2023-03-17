@@ -1,0 +1,4 @@
+ "I am going to go to the kitchen and I am going to the bathroom and I am going to the sink and I am going to the sink
+walks to the front door of the house and opens it
+
+[walk] <door>

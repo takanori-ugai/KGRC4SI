@@ -1,0 +1,4 @@
+ He is a man of the world
+walks to the door and says to him
+
+[walk] <door>

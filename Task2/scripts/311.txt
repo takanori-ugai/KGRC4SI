@@ -1,0 +1,7 @@
+ "I'm sorry
+walks to the front desk and opens the desk drawer opens
+
+[walk] <desk>
+[walk] <desk>
+[find] <desk>
+[open] <desk>

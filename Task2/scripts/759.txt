@@ -1,0 +1,7 @@
+ "Mr
+walks to the kitchen and opens the door
+
+[walk] <kitchen>
+[walk] <door>
+[find] <door>
+[open] <door>

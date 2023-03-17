@@ -1,0 +1,6 @@
+ "I'm sorry
+walks to the front of the room and sits down to the door
+
+[walk] <door>
+[find] <door>
+[sit] <door>

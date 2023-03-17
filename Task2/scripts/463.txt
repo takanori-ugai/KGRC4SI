@@ -1,0 +1,4 @@
+ "I'm not going to be able to do that
+walks to the kitchen and sits down to the table
+
+[walk] <kitchen>

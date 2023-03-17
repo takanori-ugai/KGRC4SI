@@ -1,0 +1,4 @@
+ "I'm going to have a cup of tea and I'm going to have a cup of tea and I'm going to have a cup of tea
+walks to the kitchen and begins to make a cup of tea
+
+[walk] <kitchen>

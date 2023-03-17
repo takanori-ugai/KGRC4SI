@@ -1,0 +1,4 @@
+ The kitchen is the kitchen
+walks to the kitchen and to the kitchen and to the kitchen and to the kitchen and to the kitchen and to the kitchen and to the kitchen and to the kitchen
+
+[walk] <kitchen>

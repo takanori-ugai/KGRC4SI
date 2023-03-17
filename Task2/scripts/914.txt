@@ -1,0 +1,4 @@
+D
+walks to the kitchen and he sees a large bowl of soup and a large bowl of soup
+
+[walk] <kitchen>

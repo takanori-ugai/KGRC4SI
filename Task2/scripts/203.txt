@@ -1,0 +1,4 @@
+ "I'm going to go to the the the the the the the the the the the the the the the the the the the the the the the
+walks to the door and opens it
+
+[walk] <door>

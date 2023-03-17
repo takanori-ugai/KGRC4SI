@@ -1,0 +1,6 @@
+ "I'm not sure if you're going to be able to the bathroom
+walks to the front of the room and opens the door
+
+[walk] <door>
+[find] <door>
+[open] <door>

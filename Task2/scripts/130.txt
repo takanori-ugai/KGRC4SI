@@ -1,0 +1,4 @@
+ He's not going to be there
+walks to the door
+
+[walk] <door>

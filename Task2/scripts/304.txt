@@ -1,0 +1,4 @@
+ " I have a very good idea of what you are doing
+walks to the door of the house and opens it
+
+[walk] <door>

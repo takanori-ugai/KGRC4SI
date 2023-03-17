@@ -1,0 +1,4 @@
+ The man walks out of the door and walks out of the door
+walks to the door and opens it
+
+[walk] <door>

@@ -1,0 +1,4 @@
+ "I'm here to talk to you
+walks to the door and the door opens and he walks in
+
+[walk] <door>

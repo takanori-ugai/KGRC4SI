@@ -1,0 +1,4 @@
+ : : : : : : : : : : : : : : : : : : : : : : : : : : : : : :
+walks to the front desk and begins to explain the situation
+
+[walk] <desk>

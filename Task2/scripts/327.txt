@@ -1,0 +1,6 @@
+ "I'm not sure what's going on
+walks to the front of the house and looks at the window
+
+[walk] <window>
+[find] <window>
+[lookat] <window>

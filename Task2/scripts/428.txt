@@ -1,0 +1,4 @@
+ The next morning Mr
+walks to the front door and opens it
+
+[walk] <door>

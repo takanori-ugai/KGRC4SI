@@ -1,0 +1,4 @@
+ I'm so glad I'm not going to go to the bathroom
+walks to the kitchen and takes a cup of coffee and a glass of water
+
+[walk] <kitchen>

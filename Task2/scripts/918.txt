@@ -1,0 +1,4 @@
+ He walks to the door and done
+walks to the front door of the house
+
+[walk] <door>

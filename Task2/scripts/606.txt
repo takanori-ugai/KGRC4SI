@@ -1,0 +1,4 @@
+ He is in the house
+walks to the front door of the house where he is staying
+
+[walk] <door>

@@ -1,0 +1,7 @@
+ What is this? Mr
+walks to the door and opens it is a door
+
+[walk] <door>
+[walk] <door>
+[find] <door>
+[open] <door>

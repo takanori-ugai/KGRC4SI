@@ -1,0 +1,4 @@
+ The Mr
+walks to the kitchen and puts his hand on the counter
+
+[walk] <kitchen>

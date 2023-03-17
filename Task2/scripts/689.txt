@@ -1,0 +1,7 @@
+ The door is open and the door is closed
+walks to the front door of the building and opens the door
+
+[walk] <door>
+[walk] <door>
+[find] <door>
+[open] <door>

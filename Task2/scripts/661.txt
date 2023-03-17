@@ -1,0 +1,4 @@
+D
+walks to the kitchen table and sits down to a bowl of soup
+
+[walk] <kitchen>

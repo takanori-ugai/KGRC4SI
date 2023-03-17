@@ -1,0 +1,7 @@
+
+walks to the kitchen and puts the plate on the counter
+
+[walk] <kitchen>
+[walk] <plate>
+[find] <plate>
+[put] <plate>

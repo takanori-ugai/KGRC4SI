@@ -1,0 +1,5 @@
+ I'm not going to go to the door
+walks to the door and walks to the door
+
+[walk] <door>
+[walk] <door>

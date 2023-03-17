@@ -1,0 +1,4 @@
+ "I'm not going to be here for a while
+walks to the front door of the house
+
+[walk] <door>

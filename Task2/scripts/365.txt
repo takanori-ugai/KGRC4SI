@@ -1,0 +1,4 @@
+D: I'm sorry
+walks to the door and opens it
+
+[walk] <door>

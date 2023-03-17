@@ -1,0 +1,4 @@
+ He looks at the table and says : "I'm sorry
+walks to the kitchen and sits down
+
+[walk] <kitchen>

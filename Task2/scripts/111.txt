@@ -1,0 +1,4 @@
+ "I'm going to the one who's going to be the one who's going to be the one who's going to be the one who's
+walks to the door and opens it
+
+[walk] <door>

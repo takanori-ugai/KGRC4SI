@@ -1,0 +1,7 @@
+ The house is now open
+walks to the front door of the house and opens the door and walks in
+
+[walk] <door>
+[walk] <door>
+[find] <door>
+[open] <door>

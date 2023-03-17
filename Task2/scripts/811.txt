@@ -1,0 +1,4 @@
+D
+walks to the front door of the building
+
+[walk] <door>

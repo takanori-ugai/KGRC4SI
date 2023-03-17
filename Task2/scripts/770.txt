@@ -1,0 +1,4 @@
+
+walks to the front door of the house and enters the room
+
+[walk] <door>

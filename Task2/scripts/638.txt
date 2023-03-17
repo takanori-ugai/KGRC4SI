@@ -1,0 +1,6 @@
+ "I'm sorry
+walks to the front of the car and looks at the window
+
+[walk] <window>
+[find] <window>
+[lookat] <window>

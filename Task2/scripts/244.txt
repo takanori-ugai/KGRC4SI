@@ -1,0 +1,4 @@
+ He has a good time
+walks to the door
+
+[walk] <door>

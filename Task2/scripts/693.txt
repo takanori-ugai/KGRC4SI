@@ -1,0 +1,9 @@
+ The door is open and the door is open and the door is closed and the door is open and the door is closed and the door is closed and
+walks to the door and walks to the door and walks to the door and walks to the door and walks to the door and walks to the door and walks to
+
+[walk] <door>
+[walk] <door>
+[walk] <door>
+[walk] <door>
+[walk] <door>
+[walk] <door>

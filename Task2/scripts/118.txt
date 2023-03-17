@@ -1,0 +1,4 @@
+ "I'm sorry
+walks to the door and opens it is greeted by a man who is standing there
+
+[walk] <door>

@@ -1,0 +1,7 @@
+ : : : : : : : : : : : : : : : : : : : : : : : : : : : : : :
+walks to the kitchen and opens the fridge
+
+[walk] <kitchen>
+[walk] <fridge>
+[find] <fridge>
+[open] <fridge>

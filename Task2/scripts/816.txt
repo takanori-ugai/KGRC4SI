@@ -1,0 +1,4 @@
+ The door is a very dark room and done
+walks to the door and opens it is a very dark room
+
+[walk] <door>

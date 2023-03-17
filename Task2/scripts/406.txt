@@ -1,0 +1,4 @@
+ The door is closed
+walks to the front door of the building and sits down
+
+[walk] <door>

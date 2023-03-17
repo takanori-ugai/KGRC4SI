@@ -1,0 +1,6 @@
+ "I'm going to the front of the building
+walks to the front of the building and looks at the ceiling
+
+[walk] <ceiling>
+[find] <ceiling>
+[lookat] <ceiling>

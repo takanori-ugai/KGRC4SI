@@ -1,0 +1,5 @@
+D
+walks to the kitchen and grabs the bag and walks to the kitchen
+
+[walk] <kitchen>
+[walk] <kitchen>

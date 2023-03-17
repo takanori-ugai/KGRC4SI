@@ -1,0 +1,10 @@
+ "I'm going to the kitchen sink
+walks to the kitchen and looks at the kitchen sink
+
+[walk] <kitchen>
+[walk] <kitchen>
+[find] <kitchen>
+[lookat] <kitchen>
+[walk] <sink>
+[find] <sink>
+[lookat] <sink>

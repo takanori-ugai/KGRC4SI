@@ -1,0 +1,5 @@
+
+walks to the kitchen and walks to the kitchen
+
+[walk] <kitchen>
+[walk] <kitchen>

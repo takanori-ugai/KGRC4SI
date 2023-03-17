@@ -1,0 +1,4 @@
+ Mr
+walks to the door of the room where the two men are sitting
+
+[walk] <door>

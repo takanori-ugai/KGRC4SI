@@ -1,0 +1,7 @@
+ The door opens and opens and opens and opens and opens and closes and closes and closes and closes and closes and closes and closes and closes and closes and
+walks to the door of the house and opens it and opens the door
+
+[walk] <door>
+[walk] <door>
+[find] <door>
+[open] <door>

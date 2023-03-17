@@ -1,0 +1,4 @@
+ "Mr
+walks to the door
+
+[walk] <door>

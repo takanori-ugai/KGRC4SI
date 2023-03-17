@@ -1,0 +1,4 @@
+ He walks to the front door and opens it and done
+walks to the front door and opens it
+
+[walk] <door>
