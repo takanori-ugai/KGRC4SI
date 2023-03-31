@@ -3,7 +3,7 @@ import smile.classification.knn
 import smile.validation.CrossValidation
 import java.io.FileReader
 
-fun main(args: Array<String>) {
+fun main() {
     val nodes = mutableListOf<String>()
     val reader0 = FileReader("../node.txt")
     reader0.forEachLine {
@@ -37,9 +37,9 @@ fun main(args: Array<String>) {
     for (i in 0..arr.size - 1) {
         val predict = classifier.predict(x[i])
         print("${nodes[i]} : $predict")
-        if(predict == 1) {
+        if (predict == 1) {
             println(" (DoSomethingToHighPositionObject)")
-        } else if(predict == 2) {
+        } else if (predict == 2) {
             println(" (GrabLowPositionObject)")
         } else {
             println()
