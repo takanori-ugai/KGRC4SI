@@ -1,0 +1,4 @@
+ : : : : : : : : : : : : : : : : : : : : : : : : : : : : : :
+walks to the kitchen and takes a bite of the food
+
+[walk] <kitchen>

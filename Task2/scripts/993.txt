@@ -1,0 +1,4 @@
+ "I'm going to be a little late to the party
+walks to the door and opens it
+
+[walk] <door>

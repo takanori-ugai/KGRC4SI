@@ -1,0 +1,4 @@
+ "I'm sorry
+walks to the front door and sees the door open
+
+[walk] <door>

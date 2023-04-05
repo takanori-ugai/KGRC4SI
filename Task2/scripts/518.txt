@@ -1,0 +1,7 @@
+ The door opens and the door opens
+walks to the front door of the house and opens the door
+
+[walk] <door>
+[walk] <door>
+[find] <door>
+[open] <door>

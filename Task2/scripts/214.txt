@@ -1,0 +1,4 @@
+ the
+walks to the door of the room
+
+[walk] <door>

@@ -1,0 +1,4 @@
+
+walks to the door and the man walks in
+
+[walk] <door>

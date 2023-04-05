@@ -1,0 +1,4 @@
+ "Oh
+walks to the kitchen and takes a cup of coffee
+
+[walk] <kitchen>

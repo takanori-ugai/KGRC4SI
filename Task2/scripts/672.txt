@@ -1,0 +1,4 @@
+ The kitchen is done
+walks to the kitchen
+
+[walk] <kitchen>

@@ -1,0 +1,4 @@
+D
+walks to the front door of the house and opens it is a little room with a large table and chairs
+
+[walk] <door>

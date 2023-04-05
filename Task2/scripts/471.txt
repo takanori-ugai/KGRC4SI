@@ -1,0 +1,4 @@
+ I am not going to be able to do that
+walks to the door and opens it opens
+
+[walk] <door>

@@ -1,0 +1,4 @@
+ He looks at the door and opens it and closes it
+walks to the front door and opens it
+
+[walk] <door>

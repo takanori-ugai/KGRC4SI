@@ -1,0 +1,5 @@
+ "I'm gonna go to the bathroom and get some water
+walks to the door of the door
+
+[walk] <door>
+[walk] <door>

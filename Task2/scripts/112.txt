@@ -1,0 +1,4 @@
+D
+walks to the door and opens it's a little bit of a little bit of a surprise
+
+[walk] <door>

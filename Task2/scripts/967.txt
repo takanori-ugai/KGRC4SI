@@ -1,0 +1,4 @@
+ 'I am going to go to the bathroom
+walks to the front of the room and walks to the door
+
+[walk] <door>

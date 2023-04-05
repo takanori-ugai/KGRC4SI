@@ -1,0 +1,5 @@
+
+walks to the front door of the front door of the house
+
+[walk] <door>
+[walk] <door>

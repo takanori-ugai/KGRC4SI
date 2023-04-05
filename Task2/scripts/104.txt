@@ -1,0 +1,4 @@
+ He looks at the door and sees a man in a white suit and a black shirt
+walks to the door
+
+[walk] <door>

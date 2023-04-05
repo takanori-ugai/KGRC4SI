@@ -1,0 +1,6 @@
+ He looks at the door and sees the door
+walks to the front of the house and looks at the door
+
+[walk] <door>
+[find] <door>
+[lookat] <door>

@@ -1,0 +1,4 @@
+ The next morning Mr
+walks to the kitchen and sits down to eat
+
+[walk] <kitchen>

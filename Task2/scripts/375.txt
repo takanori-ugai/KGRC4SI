@@ -1,0 +1,4 @@
+ The door opens and Mr
+walks to the door and opens it
+
+[walk] <door>

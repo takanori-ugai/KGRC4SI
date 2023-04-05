@@ -1,0 +1,4 @@
+ "I'm sorry
+walks to the door and opens it and sees a man in a white suit and a white shirt
+
+[walk] <door>

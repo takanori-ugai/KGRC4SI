@@ -1,0 +1,4 @@
+ "I'm going to the kitchen and I'm going to the kitchen and I'm going to the kitchen and I'm going to the kitchen and I
+walks to the kitchen and puts on his coat
+
+[walk] <kitchen>

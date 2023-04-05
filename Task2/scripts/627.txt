@@ -1,0 +1,7 @@
+ He looks at the door and then he walks out of the room and walks back to the door
+walks to the door and looks at the door
+
+[walk] <door>
+[walk] <door>
+[find] <door>
+[lookat] <door>

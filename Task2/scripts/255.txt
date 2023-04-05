@@ -1,0 +1,16 @@
+ The door opens and opens and opens the door and opens the the the the the the the the the the the the the the the the the the the
+walks to the door and opens the door and opens the door and opens the door and opens the door and opens the the the the the the the the the the
+
+[walk] <door>
+[walk] <door>
+[find] <door>
+[open] <door>
+[walk] <door>
+[find] <door>
+[open] <door>
+[walk] <door>
+[find] <door>
+[open] <door>
+[walk] <door>
+[find] <door>
+[open] <door>

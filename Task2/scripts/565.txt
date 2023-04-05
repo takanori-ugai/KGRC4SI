@@ -1,0 +1,4 @@
+ "I am the man who has been here for a long time
+walks to the door of the house and begins to talk to the man
+
+[walk] <door>

@@ -1,0 +1,7 @@
+ "I'm going to go to the bathroom and open the fridge and open the fridge and I'm going to go to the bathroom and open the fridge
+walks to the kitchen and opens the fridge and pulls out a bottle of water bottle
+
+[walk] <kitchen>
+[walk] <fridge>
+[find] <fridge>
+[open] <fridge>

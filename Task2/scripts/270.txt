@@ -1,0 +1,4 @@
+ "I'm going to go to the bathroom and then I'm going to the sink and then I'm going to the sink and then I'm going
+walks to the kitchen and starts to clean the sink
+
+[walk] <kitchen>

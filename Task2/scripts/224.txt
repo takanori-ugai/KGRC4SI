@@ -1,0 +1,4 @@
+ : : : : : : : : : : : : : : : : : : : : : : : : : : : : : :
+walks to the kitchen and pulls out a bag of ice cream
+
+[walk] <kitchen>

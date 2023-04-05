@@ -1,0 +1,5 @@
+ "I'm going to the door and I'm going to the door and I'm going to the door and I'm going to the door and I
+walks to the door and walks to the door
+
+[walk] <door>
+[walk] <door>

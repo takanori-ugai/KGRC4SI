@@ -1,0 +1,7 @@
+ "I'm going to the bathroom
+walks to the door of the house and opens the door
+
+[walk] <door>
+[walk] <door>
+[find] <door>
+[open] <door>

@@ -1,0 +1,6 @@
+ : : The door is open and Mr
+walks to the front of the building and sits down to the floor
+
+[walk] <floor>
+[find] <floor>
+[sit] <floor>

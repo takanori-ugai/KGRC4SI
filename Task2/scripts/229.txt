@@ -1,0 +1,4 @@
+ I am not a man
+walks to the door and opens it
+
+[walk] <door>

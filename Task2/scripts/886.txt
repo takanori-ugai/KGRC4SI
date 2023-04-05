@@ -1,0 +1,7 @@
+ "I'm going to the office
+walks to the door and looks at the door
+
+[walk] <door>
+[walk] <door>
+[find] <door>
+[lookat] <door>

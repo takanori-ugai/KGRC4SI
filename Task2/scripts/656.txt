@@ -1,0 +1,4 @@
+D Mr
+walks to the front door of the house and opens it
+
+[walk] <door>

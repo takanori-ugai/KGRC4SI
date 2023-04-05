@@ -1,0 +1,4 @@
+ "I am sorry
+walks to the door and opens it is Mr
+
+[walk] <door>

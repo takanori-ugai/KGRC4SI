@@ -1,0 +1,5 @@
+ "I'm going to do this
+walks to the door and walks to the kitchen
+
+[walk] <door>
+[walk] <kitchen>

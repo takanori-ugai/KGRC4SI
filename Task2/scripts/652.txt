@@ -1,0 +1,4 @@
+ "I'm sorry
+walks to the kitchen and starts to talk to the woman
+
+[walk] <kitchen>

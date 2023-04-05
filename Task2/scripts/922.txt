@@ -1,0 +1,4 @@
+ "I am going to the house of the man who is in the house and done
+walks to the door of the house of the man who is in the house
+
+[walk] <door>

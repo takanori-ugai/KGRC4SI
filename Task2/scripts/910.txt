@@ -1,0 +1,4 @@
+ "I am the man who has been waiting for you for a long time
+walks to the door and opens it
+
+[walk] <door>

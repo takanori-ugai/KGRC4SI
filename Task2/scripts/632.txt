@@ -1,0 +1,5 @@
+ The door of the house is open and the door of the house is open and done
+walks to the front door of the house and walks to the front door of the house
+
+[walk] <door>
+[walk] <door>

@@ -1,0 +1,4 @@
+ "I am not a man
+walks to the door of the house
+
+[walk] <door>

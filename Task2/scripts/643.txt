@@ -1,0 +1,4 @@
+ : : : : : : : : : : : : : : : : : : : : : : : : : : : : : :
+walks to the front door and opens it
+
+[walk] <door>

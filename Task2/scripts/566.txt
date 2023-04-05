@@ -1,0 +1,4 @@
+ The house is in the house
+walks to the front door of the house and says
+
+[walk] <door>

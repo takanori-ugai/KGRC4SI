@@ -1,0 +1,4 @@
+ He is a man of the people
+walks to the door and opens it
+
+[walk] <door>

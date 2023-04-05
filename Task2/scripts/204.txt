@@ -1,0 +1,4 @@
+ "I'm going to go to the bathroom and get my hair done
+walks to the door and opens it
+
+[walk] <door>

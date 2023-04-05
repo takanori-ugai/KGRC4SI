@@ -1,0 +1,4 @@
+ "I'm going to have to go to the kitchen and take a seat and do a little bit of a little bit of a little bit of a
+walks to the kitchen and takes a seat
+
+[walk] <kitchen>

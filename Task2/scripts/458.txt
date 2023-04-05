@@ -1,0 +1,4 @@
+D
+walks to the kitchen and takes a bite of his sandwich
+
+[walk] <kitchen>

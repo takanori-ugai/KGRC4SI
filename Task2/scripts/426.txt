@@ -1,0 +1,7 @@
+ 'I'm sorry
+walks to the front door and looks at the door
+
+[walk] <door>
+[walk] <door>
+[find] <door>
+[lookat] <door>

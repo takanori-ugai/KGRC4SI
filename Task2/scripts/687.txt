@@ -1,0 +1,4 @@
+ "I'm going to take a nap
+walks to the kitchen
+
+[walk] <kitchen>

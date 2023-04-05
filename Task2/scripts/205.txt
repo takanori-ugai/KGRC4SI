@@ -1,0 +1,4 @@
+ "I am not a man of the world
+walks to the door
+
+[walk] <door>

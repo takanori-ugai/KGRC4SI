@@ -1,0 +1,7 @@
+ The door is locked
+walks to the front door and opens the door
+
+[walk] <door>
+[walk] <door>
+[find] <door>
+[open] <door>

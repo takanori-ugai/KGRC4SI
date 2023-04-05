@@ -1,0 +1,4 @@
+ "I'm going to get a little bit of a job
+walks to the door and opens it
+
+[walk] <door>

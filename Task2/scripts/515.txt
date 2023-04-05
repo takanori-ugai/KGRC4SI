@@ -1,0 +1,4 @@
+ "I am a man of the world
+walks to the front door of the house and sees a man in a white suit and a white shirt
+
+[walk] <door>

@@ -1,0 +1,7 @@
+ I am going to go to the house and look at the door and do the same
+walks to the front door of the house and looks at the door
+
+[walk] <door>
+[walk] <door>
+[find] <door>
+[lookat] <door>

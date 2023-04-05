@@ -1,0 +1,4 @@
+ He walks to the front door and sees a man in a black hoodie and done
+walks to the front door and sees a man in a black hoodie
+
+[walk] <door>

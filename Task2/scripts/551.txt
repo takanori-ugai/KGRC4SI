@@ -1,0 +1,7 @@
+D
+walks to the kitchen and sits down to a plate of pasta
+
+[walk] <kitchen>
+[walk] <plate>
+[find] <plate>
+[sit] <plate>

@@ -1,0 +1,4 @@
+ "I'm going to get out of here
+walks to the door
+
+[walk] <door>

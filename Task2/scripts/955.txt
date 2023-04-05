@@ -1,0 +1,10 @@
+D
+walks to the kitchen and sits down to the kitchen sink
+
+[walk] <kitchen>
+[walk] <kitchen>
+[find] <kitchen>
+[sit] <kitchen>
+[walk] <sink>
+[find] <sink>
+[sit] <sink>

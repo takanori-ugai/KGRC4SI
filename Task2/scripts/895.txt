@@ -1,0 +1,4 @@
+ "I'm going to get a job at the office
+walks to the door and opens it
+
+[walk] <door>

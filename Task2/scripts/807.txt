@@ -1,0 +1,7 @@
+ "I'm going to the front door and I'm going to the front door and I'm going to the front door and I'm going to the
+walks to the front door and opens the door
+
+[walk] <door>
+[walk] <door>
+[find] <door>
+[open] <door>

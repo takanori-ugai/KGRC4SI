@@ -1,0 +1,7 @@
+ The Mr
+walks to the kitchen and sits down on the sofa
+
+[walk] <kitchen>
+[walk] <sofa>
+[find] <sofa>
+[sit] <sofa>

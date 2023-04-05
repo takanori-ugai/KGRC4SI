@@ -1,0 +1,4 @@
+ "I'm going to get you a drink
+walks to the door and opens it
+
+[walk] <door>

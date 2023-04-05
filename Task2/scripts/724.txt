@@ -1,0 +1,4 @@
+ "I'm here to talk to you
+walks to the door and sees a man in a white shirt and a black shirt
+
+[walk] <door>

@@ -1,0 +1,4 @@
+ "I'm going to get you in here
+walks to the front door and opens it
+
+[walk] <door>

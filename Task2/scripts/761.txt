@@ -1,0 +1,4 @@
+ The door is open
+walks to the door of the house where Mr
+
+[walk] <door>

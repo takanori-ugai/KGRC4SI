@@ -1,0 +1,8 @@
+D
+walks to the front door of the front door and opens the door
+
+[walk] <door>
+[walk] <door>
+[walk] <door>
+[find] <door>
+[open] <door>

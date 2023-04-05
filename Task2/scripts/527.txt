@@ -1,0 +1,4 @@
+ "I'm going to have to go to the bathroom and get a shower
+walks to the kitchen and puts his hands on his hips
+
+[walk] <kitchen>

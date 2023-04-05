@@ -1,0 +1,5 @@
+ He walks to the door and walks to the kitchen and done
+walks to the door of the house and walks to the kitchen
+
+[walk] <door>
+[walk] <kitchen>

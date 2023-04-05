@@ -1,0 +1,4 @@
+ "I am not here to talk to you
+walks to the door and enters the room
+
+[walk] <door>

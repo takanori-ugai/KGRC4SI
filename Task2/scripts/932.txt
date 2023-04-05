@@ -1,0 +1,4 @@
+ He walks into the house and sees a man in a white coat and done
+walks to the front door of the house and sees a man in a white coat
+
+[walk] <door>

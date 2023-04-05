@@ -1,0 +1,6 @@
+ "I'm not sure what to do
+walks to the front of the room and looks at the floor
+
+[walk] <floor>
+[find] <floor>
+[lookat] <floor>

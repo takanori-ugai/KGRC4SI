@@ -1,0 +1,22 @@
+ The door opens and closes the door and done
+walks to the door of the house and opens the door and opens the door and opens the door and opens the door and opens the door and opens the door and
+
+[walk] <door>
+[walk] <door>
+[find] <door>
+[open] <door>
+[walk] <door>
+[find] <door>
+[open] <door>
+[walk] <door>
+[find] <door>
+[open] <door>
+[walk] <door>
+[find] <door>
+[open] <door>
+[walk] <door>
+[find] <door>
+[open] <door>
+[walk] <door>
+[find] <door>
+[open] <door>

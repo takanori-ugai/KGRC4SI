@@ -1,0 +1,4 @@
+ "I'm going to have a good time with a good time
+walks to the kitchen and puts the dish on the counter
+
+[walk] <kitchen>

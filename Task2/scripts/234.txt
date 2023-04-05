@@ -1,0 +1,4 @@
+P He looks at the kitchen and looks at the kitchen
+walks to the kitchen and sits down
+
+[walk] <kitchen>

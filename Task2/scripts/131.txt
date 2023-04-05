@@ -1,0 +1,7 @@
+ "I'm sorry
+walks to the floor and looks at the floor
+
+[walk] <floor>
+[walk] <floor>
+[find] <floor>
+[lookat] <floor>

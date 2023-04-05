@@ -1,0 +1,4 @@
+ The door opens and the door opens and the door opens and the door opens and the door the door the door the door the door the door the door
+walks to the door and opens it
+
+[walk] <door>

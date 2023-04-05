@@ -1,0 +1,4 @@
+ "
+walks to the kitchen and takes a glass of water
+
+[walk] <kitchen>

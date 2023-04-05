@@ -1,0 +1,5 @@
+ : : : : : : : : : : : : : : : : : : : : : : : : : : : : : :
+walks to the front door and walks to the back door
+
+[walk] <door>
+[walk] <door>

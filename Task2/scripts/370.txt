@@ -1,0 +1,7 @@
+ "I'm not going to let you in here
+walks to the door and opens the door
+
+[walk] <door>
+[walk] <door>
+[find] <door>
+[open] <door>

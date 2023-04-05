@@ -1,0 +1,4 @@
+ 'I'm sorry
+walks to the kitchen and puts a cup of coffee in his hand
+
+[walk] <kitchen>

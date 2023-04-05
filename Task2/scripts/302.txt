@@ -1,0 +1,4 @@
+ "I'm not going to eat it
+walks to the kitchen and takes a bite of the chicken
+
+[walk] <kitchen>

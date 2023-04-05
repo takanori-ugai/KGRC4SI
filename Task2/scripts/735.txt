@@ -1,0 +1,7 @@
+ " I have a feeling that you are going to be a good girl
+walks to the door and opens the door
+
+[walk] <door>
+[walk] <door>
+[find] <door>
+[open] <door>

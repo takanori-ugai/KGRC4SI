@@ -1,0 +1,4 @@
+ The door opens and closes
+walks to the front door and opens it
+
+[walk] <door>
