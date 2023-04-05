@@ -1,9 +1,23 @@
 import org.apache.commons.csv.CSVFormat
 import smile.classification.knn
+import smile.plot.swing.LinePlot
 import smile.validation.CrossValidation
+import java.awt.Color
 import java.io.FileReader
+import java.lang.Math.PI
+import java.lang.Math.cos
+import java.lang.Math.pow
+import java.lang.Math.sin
 
-fun main(args: Array<String>) {
+fun main() {
+    val heart = Array(200) { DoubleArray(2) }
+    for (i in 0..199) {
+        val t: Double = PI * (i - 100) / 100
+        heart[i][0] = 16 * pow(sin(t), 3.0)
+        heart[i][1] = 13 * cos(t) - 5 * cos(2 * t) - 2 * cos(3 * t) - cos(4 * t)
+    }
+    val canvas = LinePlot.of(heart, Color.RED)
+//    canvas.canvas().window()
     val nodes = mutableListOf<String>()
     val reader0 = FileReader("../node.txt")
     reader0.forEachLine {
@@ -37,13 +51,13 @@ fun main(args: Array<String>) {
     for (i in 0..arr.size - 1) {
         val predict = classifier.predict(x[i])
         print("${nodes[i]} : $predict")
-        if(predict == 1) {
+        if (predict == 1) {
             println(" (DoSomethingToHighPositionObject)")
-        } else if(predict == 2) {
+        } else if (predict == 2) {
             println(" (GrabLowPositionObject)")
         } else {
             println()
         }
     }
-    println(CrossValidation.classification(15, x, arr, { indata, y -> knn(indata, y, 3) }))
+    println(CrossValidation.classification(10, x, arr, { indata, y -> knn(indata, y, 3) }))
 }

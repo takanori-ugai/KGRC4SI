@@ -3,8 +3,8 @@ import io.gitlab.arturbosch.detekt.Detekt
 import org.jlleitschuh.gradle.ktlint.reporter.ReporterType
 
 plugins {
-    kotlin("jvm") version "1.8.10"
-    kotlin("plugin.serialization") version "1.8.10"
+    kotlin("jvm") version "1.8.20"
+    kotlin("plugin.serialization") version "1.8.20"
     java
     id("com.github.johnrengelman.shadow") version "7.1.2"
     jacoco
@@ -37,6 +37,7 @@ dependencies {
     implementation("com.github.haifengl:smile-core:3.0.1")
     implementation("com.github.haifengl:smile-kotlin:3.0.1")
     implementation("com.github.haifengl:smile-mkl:3.0.1")
+    implementation("com.github.haifengl:smile-plot:3.0.1")
     implementation("org.apache.commons:commons-csv:1.10.0")
 }
 
