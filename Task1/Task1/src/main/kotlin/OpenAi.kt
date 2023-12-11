@@ -13,7 +13,7 @@ data class OpenAIResponse(
     val created: Int,
     val model: String,
     val choices: List<OpenAIChoice>,
-    val usage: OpenAIUsage? = null
+    val usage: OpenAIUsage? = null,
 )
 
 @Serializable
@@ -21,7 +21,7 @@ data class OpenAIChoice(
     val text: String,
     val index: Int,
     val logprobs: OpenAILogProbs? = null,
-    val finish_reason: String? = null
+    val finish_reason: String? = null,
 )
 
 @Serializable
@@ -30,14 +30,14 @@ data class OpenAILogProbs(
     val token_logprobs: List<Double>,
     val top_logprobs: List<Double>,
     val text_offset: List<Int>,
-    val text: String
+    val text: String,
 )
 
 @Serializable
 data class OpenAIUsage(
     val prompt_tokens: Int,
     val completion_tokens: Int,
-    val total_tokens: Int
+    val total_tokens: Int,
 )
 
 fun main() {
@@ -48,7 +48,8 @@ fun main() {
     val httpClient = HttpClient.newHttpClient()
 
     // HTTPリクエストに送信するデータを作成
-    val requestBody = """
+    val requestBody =
+        """
         {
             "prompt": "Finding some food is risky for older people because it is to do something to objects in a high place. What is a safer way to achieve their objectives?",
             "max_tokens": 500,
@@ -56,15 +57,16 @@ fun main() {
             "n": 1,
             "stop": "."
         }
-    """.trimIndent()
+        """.trimIndent()
 
     // HTTPリクエストを作成
-    val request = HttpRequest.newBuilder()
-        .uri(URI.create(endpoint))
-        .header("Content-Type", "application/json")
-        .header("Authorization", "Bearer $apiKey")
-        .POST(HttpRequest.BodyPublishers.ofString(requestBody))
-        .build()
+    val request =
+        HttpRequest.newBuilder()
+            .uri(URI.create(endpoint))
+            .header("Content-Type", "application/json")
+            .header("Authorization", "Bearer $apiKey")
+            .POST(HttpRequest.BodyPublishers.ofString(requestBody))
+            .build()
 
     // HTTPリクエストを実行して、HTTPレスポンスを受信
     val response = httpClient.send(request, HttpResponse.BodyHandlers.ofString())
