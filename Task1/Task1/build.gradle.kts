@@ -9,7 +9,7 @@ plugins {
     id("com.github.johnrengelman.shadow") version "7.1.2"
     jacoco
     id("org.jetbrains.dokka") version "1.8.10"
-    id("io.gitlab.arturbosch.detekt") version "1.22.0"
+    id("io.gitlab.arturbosch.detekt") version "1.23.4"
 //    id("com.github.sherter.google-java-format") version "0.9"
 //    kotlin("jupyter.api") version "0.10.1-8"
     id("org.jlleitschuh.gradle.ktlint") version "12.0.2"
