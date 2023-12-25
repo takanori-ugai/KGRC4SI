@@ -121,7 +121,7 @@ spotbugs {
 }
 
 jacoco {
-    toolVersion = "0.8.8"
+    toolVersion = "0.8.10"
 //    reportsDirectory.set(layout.buildDirectory.dir("customJacocoReportDir"))
 }
 
@@ -134,7 +134,7 @@ spotless {
         removeUnusedImports()
 
         // Choose one of these formatters.
-        googleJavaFormat("1.15.0")
+        googleJavaFormat("1.19.1")
         formatAnnotations()
     }
 }
