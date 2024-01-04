@@ -37,7 +37,7 @@ dependencies {
     implementation("com.github.haifengl:smile-core:3.0.2")
     implementation("com.github.haifengl:smile-kotlin:3.0.2")
     implementation("com.github.haifengl:smile-mkl:3.0.2")
-    implementation("com.github.haifengl:smile-plot:3.0.1")
+    implementation("com.github.haifengl:smile-plot:3.0.2")
     implementation("org.apache.commons:commons-csv:1.10.0")
 }
 
