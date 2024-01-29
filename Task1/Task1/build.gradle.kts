@@ -15,7 +15,7 @@ plugins {
     id("org.jlleitschuh.gradle.ktlint") version "12.1.0"
     id("com.github.jk1.dependency-license-report") version "2.5"
     id("com.github.spotbugs") version "6.0.7"
-    id("com.diffplug.spotless") version "6.24.0"
+    id("com.diffplug.spotless") version "6.25.0"
     application
 }
 
