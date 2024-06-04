@@ -27,14 +27,14 @@ repositories {
 }
 
 dependencies {
-    implementation("org.jetbrains.kotlinx:kotlinx-serialization-json:1.+")
+    implementation("org.jetbrains.kotlinx:kotlinx-serialization-json:1.6.3")
     implementation("io.github.microutils:kotlin-logging:3.0.5")
 //    implementation("org.apache.logging.log4j:log4j-slf4j-impl:2.+")
     implementation("ch.qos.logback:logback-classic:1.+")
     testImplementation("org.junit.jupiter:junit-jupiter-api:5.10.2")
     testRuntimeOnly("org.junit.jupiter:junit-jupiter-engine:5.10.2")
     implementation(kotlin("stdlib-jdk8"))
-    implementation("com.github.haifengl:smile-core:3.1.0")
+    implementation("com.github.haifengl:smile-core:3.1.1")
     implementation("com.github.haifengl:smile-kotlin:3.1.0")
     implementation("com.github.haifengl:smile-mkl:3.0.3")
     implementation("com.github.haifengl:smile-plot:3.1.0")
