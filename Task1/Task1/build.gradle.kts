@@ -3,8 +3,8 @@ import io.gitlab.arturbosch.detekt.Detekt
 import org.jlleitschuh.gradle.ktlint.reporter.ReporterType
 
 plugins {
-    kotlin("jvm") version "1.9.24"
-    kotlin("plugin.serialization") version "1.9.24"
+    kotlin("jvm") version "2.0.0"
+    kotlin("plugin.serialization") version "2.0.0"
     java
     id("com.github.johnrengelman.shadow") version "8.1.1"
     jacoco
@@ -27,17 +27,17 @@ repositories {
 }
 
 dependencies {
-    implementation("org.jetbrains.kotlinx:kotlinx-serialization-json:1.6.3")
+    implementation("org.jetbrains.kotlinx:kotlinx-serialization-json:1.7.0")
     implementation("io.github.microutils:kotlin-logging:3.0.5")
 //    implementation("org.apache.logging.log4j:log4j-slf4j-impl:2.+")
     implementation("ch.qos.logback:logback-classic:1.+")
     testImplementation("org.junit.jupiter:junit-jupiter-api:5.10.2")
     testRuntimeOnly("org.junit.jupiter:junit-jupiter-engine:5.10.2")
     implementation(kotlin("stdlib-jdk8"))
-    implementation("com.github.haifengl:smile-core:3.1.0")
+    implementation("com.github.haifengl:smile-core:3.1.1")
     implementation("com.github.haifengl:smile-kotlin:3.1.0")
     implementation("com.github.haifengl:smile-mkl:3.0.3")
-    implementation("com.github.haifengl:smile-plot:3.1.0")
+    implementation("com.github.haifengl:smile-plot:3.1.1")
     implementation("org.apache.commons:commons-csv:1.11.0")
 }
 
@@ -121,7 +121,7 @@ spotbugs {
 }
 
 jacoco {
-    toolVersion = "0.8.10"
+    toolVersion = "0.8.12"
 //    reportsDirectory.set(layout.buildDirectory.dir("customJacocoReportDir"))
 }
 
@@ -134,7 +134,7 @@ spotless {
         removeUnusedImports()
 
         // Choose one of these formatters.
-        googleJavaFormat("1.19.1")
+        googleJavaFormat("1.22.0")
         formatAnnotations()
     }
 }
