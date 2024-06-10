@@ -14,7 +14,7 @@ plugins {
 //    kotlin("jupyter.api") version "0.10.1-8"
     id("org.jlleitschuh.gradle.ktlint") version "12.1.1"
     id("com.github.jk1.dependency-license-report") version "2.7"
-    id("com.github.spotbugs") version "6.0.14"
+    id("com.github.spotbugs") version "6.0.15"
     id("com.diffplug.spotless") version "6.25.0"
     application
 }
@@ -121,7 +121,7 @@ spotbugs {
 }
 
 jacoco {
-    toolVersion = "0.8.10"
+    toolVersion = "0.8.12"
 //    reportsDirectory.set(layout.buildDirectory.dir("customJacocoReportDir"))
 }
 
@@ -134,7 +134,7 @@ spotless {
         removeUnusedImports()
 
         // Choose one of these formatters.
-        googleJavaFormat("1.19.1")
+        googleJavaFormat("1.22.0")
         formatAnnotations()
     }
 }
