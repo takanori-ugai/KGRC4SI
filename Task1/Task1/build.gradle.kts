@@ -134,7 +134,7 @@ spotless {
         removeUnusedImports()
 
         // Choose one of these formatters.
-        googleJavaFormat("1.22.0")
+        googleJavaFormat("1.24.0")
         formatAnnotations()
     }
 }
