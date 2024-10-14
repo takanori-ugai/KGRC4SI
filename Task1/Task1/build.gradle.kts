@@ -36,30 +36,30 @@ dependencies {
     implementation(kotlin("stdlib-jdk8"))
     implementation("com.github.haifengl:smile-core:3.1.1")
     implementation("com.github.haifengl:smile-kotlin:3.1.1")
-    implementation("com.github.haifengl:smile-mkl:3.0.3")
+    implementation("com.github.haifengl:smile-mkl:3.1.1")
     implementation("com.github.haifengl:smile-plot:3.1.1")
     implementation("org.apache.commons:commons-csv:1.11.0")
 }
 
 tasks {
     compileKotlin {
-        kotlinOptions.jvmTarget = "17"
+        kotlinOptions.jvmTarget = "21"
     }
 
     compileTestKotlin {
-        kotlinOptions.jvmTarget = "17"
+        kotlinOptions.jvmTarget = "21"
     }
 
     compileJava {
         options.encoding = "UTF-8"
-        sourceCompatibility = "17"
-        targetCompatibility = "17"
+        sourceCompatibility = "21"
+        targetCompatibility = "21"
     }
 
     compileTestJava {
         options.encoding = "UTF-8"
-        sourceCompatibility = "17"
-        targetCompatibility = "17"
+        sourceCompatibility = "21"
+        targetCompatibility = "21"
     }
 
     test {
@@ -134,7 +134,7 @@ spotless {
         removeUnusedImports()
 
         // Choose one of these formatters.
-        googleJavaFormat("1.22.0")
+        googleJavaFormat("1.24.0")
         formatAnnotations()
     }
 }
