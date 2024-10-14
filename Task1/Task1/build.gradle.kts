@@ -36,7 +36,7 @@ dependencies {
     implementation(kotlin("stdlib-jdk8"))
     implementation("com.github.haifengl:smile-core:3.1.1")
     implementation("com.github.haifengl:smile-kotlin:3.1.1")
-    implementation("com.github.haifengl:smile-mkl:3.1.1")
+    implementation("com.github.haifengl:smile-mkl:3.0.3")
     implementation("com.github.haifengl:smile-plot:3.1.1")
     implementation("org.apache.commons:commons-csv:1.11.0")
 }
