@@ -14,7 +14,7 @@ plugins {
 //    kotlin("jupyter.api") version "0.10.1-8"
     id("org.jlleitschuh.gradle.ktlint") version "12.1.2"
     id("com.github.jk1.dependency-license-report") version "2.9"
-    id("com.github.spotbugs") version "6.1.3"
+    id("com.github.spotbugs") version "6.1.5"
     id("com.diffplug.spotless") version "7.0.2"
     application
 }
