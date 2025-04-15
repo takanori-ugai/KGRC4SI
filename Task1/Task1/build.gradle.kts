@@ -32,7 +32,7 @@ dependencies {
 //    implementation("org.apache.logging.log4j:log4j-slf4j-impl:2.+")
     implementation("ch.qos.logback:logback-classic:1.+")
     testImplementation("org.junit.jupiter:junit-jupiter-api:5.12.2")
-    testRuntimeOnly("org.junit.jupiter:junit-jupiter-engine:5.12.1")
+    testRuntimeOnly("org.junit.jupiter:junit-jupiter-engine:5.12.2")
     implementation(kotlin("stdlib-jdk8"))
     implementation("com.github.haifengl:smile-core:4.3.0")
     implementation("com.github.haifengl:smile-kotlin:4.3.0")
