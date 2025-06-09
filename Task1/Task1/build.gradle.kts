@@ -34,7 +34,7 @@ dependencies {
     testImplementation("org.junit.jupiter:junit-jupiter-api:5.13.0")
     testRuntimeOnly("org.junit.jupiter:junit-jupiter-engine:5.13.0")
     implementation(kotlin("stdlib-jdk8"))
-    implementation("com.github.haifengl:smile-core:4.3.0")
+    implementation("com.github.haifengl:smile-core:4.4.0")
     implementation("com.github.haifengl:smile-kotlin:4.3.0")
     implementation("com.github.haifengl:smile-mkl:3.0.3")
     implementation("com.github.haifengl:smile-plot:4.3.0")
