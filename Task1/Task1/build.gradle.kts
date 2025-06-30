@@ -114,7 +114,7 @@ detekt {
     buildUponDefaultConfig = true // preconfigure defaults
     allRules = false // activate all available (even unstable) rules.
     // point to your custom config defining rules to run, overwriting default behavior
-    config.from(files("config/detekt/detekt.yml"))
+    config.from(files("$projectDir/config/detekt.yml"))
 //    baseline = file("$projectDir/config/baseline.xml") // a way of suppressing issues before introducing detekt
 }
 
@@ -123,7 +123,7 @@ spotbugs {
 }
 
 jacoco {
-    toolVersion = "0.8.12"
+    toolVersion = "0.8.13"
 //    reportsDirectory.set(layout.buildDirectory.dir("customJacocoReportDir"))
 }
 
@@ -136,7 +136,7 @@ spotless {
         removeUnusedImports()
 
         // Choose one of these formatters.
-        googleJavaFormat("1.25.2")
+        googleJavaFormat("1.27.0")
         formatAnnotations()
     }
 }
