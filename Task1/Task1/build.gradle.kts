@@ -7,7 +7,7 @@ plugins {
     kotlin("jvm") version "2.2.10"
     kotlin("plugin.serialization") version "2.2.10"
     java
-    id("com.gradleup.shadow") version "9.0.1"
+    id("com.gradleup.shadow") version "9.0.2"
     jacoco
     id("org.jetbrains.dokka") version "2.0.0"
     id("io.gitlab.arturbosch.detekt") version "1.23.8"
