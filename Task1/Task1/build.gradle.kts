@@ -35,10 +35,10 @@ dependencies {
     testImplementation("org.junit.jupiter:junit-jupiter-api:5.13.4")
     testRuntimeOnly("org.junit.jupiter:junit-jupiter-engine:5.13.4")
     implementation(kotlin("stdlib-jdk8"))
-    implementation("com.github.haifengl:smile-core:4.4.1")
+    implementation("com.github.haifengl:smile-core:4.4.2")
     implementation("com.github.haifengl:smile-kotlin:4.4.2")
     implementation("com.github.haifengl:smile-mkl:3.0.3")
-    implementation("com.github.haifengl:smile-plot:4.4.1")
+    implementation("com.github.haifengl:smile-plot:4.4.2")
     implementation("org.apache.commons:commons-csv:1.14.1")
 }
 
