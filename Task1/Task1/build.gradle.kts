@@ -13,7 +13,7 @@ plugins {
     id("io.gitlab.arturbosch.detekt") version "1.23.8"
 //    id("com.github.sherter.google-java-format") version "0.9"
 //    kotlin("jupyter.api") version "0.10.1-8"
-    id("org.jlleitschuh.gradle.ktlint") version "13.1.0"
+    id("org.jlleitschuh.gradle.ktlint") version "14.0.1"
     id("com.github.jk1.dependency-license-report") version "3.0.1"
     id("com.github.spotbugs") version "6.4.5"
     id("com.diffplug.spotless") version "8.1.0"
