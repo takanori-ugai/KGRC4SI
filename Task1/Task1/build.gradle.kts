@@ -14,7 +14,7 @@ plugins {
 //    id("com.github.sherter.google-java-format") version "0.9"
 //    kotlin("jupyter.api") version "0.10.1-8"
     id("org.jlleitschuh.gradle.ktlint") version "14.2.0"
-    id("com.github.jk1.dependency-license-report") version "3.1.4"
+    id("com.github.jk1.dependency-license-report") version "3.1.5"
     id("com.github.spotbugs") version "6.5.13"
     id("com.diffplug.spotless") version "8.10.4"
     application
